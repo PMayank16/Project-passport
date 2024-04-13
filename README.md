@@ -1,7 +1,3 @@
-
-A NodeJs project to use a passport in login 
-
-
 A NODEJS project using Passport 
 
 Using--> EJS, MongoDb, Passport, Express,bcryptjs, bootstrap, bootswatch, font awesome.
